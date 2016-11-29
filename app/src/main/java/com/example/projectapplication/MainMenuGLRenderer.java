@@ -3,9 +3,6 @@ package com.example.projectapplication;
 import android.content.Context;
 import android.opengl.GLSurfaceView;
 import android.opengl.GLU;
-import android.util.Log;
-
-import com.example.projectapplication.SpriteObjects.MenuItems.SinglePlayerButton;
 
 import javax.microedition.khronos.egl.EGLConfig;
 import javax.microedition.khronos.opengles.GL10;
@@ -17,7 +14,6 @@ public class MainMenuGLRenderer implements GLSurfaceView.Renderer
 {
     // Application context
     private Context context;
-    private SinglePlayerButton singlePlayerButton;
 
     MainMenuGLRenderer(Context context)
     {
@@ -57,8 +53,6 @@ public class MainMenuGLRenderer implements GLSurfaceView.Renderer
 
         gl.glMatrixMode(GL10.GL_MODELVIEW);
         gl.glLoadIdentity();*/
-
-        singlePlayerButton = new SinglePlayerButton(gl, this.context);
     }
 
     @Override
@@ -107,9 +101,5 @@ public class MainMenuGLRenderer implements GLSurfaceView.Renderer
 
     public void onTouchEvent(float x, float y)
     {
-        if(this.singlePlayerButton.isTouched(Float.valueOf(String.valueOf(x)), Float.valueOf(String.valueOf(y))));
-        {
-            Log.d("GG", "TOUCHED");
-        }
     }
 }

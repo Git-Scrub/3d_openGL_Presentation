@@ -3,6 +3,24 @@
 
     <item
         is-multidex="true"
+        jar="C:\Users\Lionel\Desktop\Android_Project\OpenGL3d_Presentation\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Lionel\Desktop\Android_Project\OpenGL3d_Presentation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_5e3e304218b0d588841fc92d804118d2dd5576a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lionel\Desktop\Android_Project\OpenGL3d_Presentation\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Lionel\Desktop\Android_Project\OpenGL3d_Presentation\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_dbfae0592c2e67b8f23ebe6031622691e3628839\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Lionel\Desktop\Android_Project\Tower-Smasher\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -30,6 +48,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Lionel\Desktop\Android_Project\OpenGL3d_Presentation\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Lionel\Desktop\Android_Project\OpenGL3d_Presentation\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_eb7249508aa4d0cfe7b7fbbeb3b8581252de04da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Lionel\Desktop\Android_Project\Tower-Smasher\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
@@ -48,12 +75,39 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Lionel\Desktop\Android_Project\OpenGL3d_Presentation\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Lionel\Desktop\Android_Project\OpenGL3d_Presentation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_80e5625c3a72204cbc2a5d92d09a58fee9f0ae1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Lionel\Desktop\Android_Project\Tower-Smasher\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
         <dex dex="C:\Users\Lionel\Desktop\Android_Project\Tower-Smasher\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_305a3807f5fc08128288707b7d6003d43fb00c17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lionel\Desktop\Android_Project\OpenGL3d_Presentation\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Lionel\Desktop\Android_Project\OpenGL3d_Presentation\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_8ca6df859131168a8944c7ce8fa664c32d24da3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lionel\Desktop\Android_Project\OpenGL3d_Presentation\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Lionel\Desktop\Android_Project\OpenGL3d_Presentation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_03d5a9a87a9929c9cc6fc5d828303d658691e613\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -75,6 +129,33 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Lionel\Desktop\Android_Project\OpenGL3d_Presentation\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Lionel\Desktop\Android_Project\OpenGL3d_Presentation\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_0f25c043237a9c3a00297e11e879542c35312af3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lionel\Desktop\Android_Project\OpenGL3d_Presentation\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Lionel\Desktop\Android_Project\OpenGL3d_Presentation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_0bf0bdad9f087b5657b1d11db5f5c8eb096abbd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lionel\Desktop\Android_Project\OpenGL3d_Presentation\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Lionel\Desktop\Android_Project\OpenGL3d_Presentation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_07915234afcb4d0d7975de20b548b55b4b62693e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Lionel\Desktop\Android_Project\Tower-Smasher\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -84,12 +165,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Lionel\Desktop\Android_Project\OpenGL3d_Presentation\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="804cb2e8a70122337d9f1f5ad99f4ab2e2c78451">
+        <dex dex="C:\Users\Lionel\Desktop\Android_Project\OpenGL3d_Presentation\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_af9fafb5b9e64c374c8918dcd38444de7619be9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Lionel\Desktop\Android_Project\Tower-Smasher\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
         <dex dex="C:\Users\Lionel\Desktop\Android_Project\Tower-Smasher\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_f6be79ef00885391e06960923cf7fab8509f5622\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lionel\Desktop\Android_Project\OpenGL3d_Presentation\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a24d4532cffdd86be517261407271b887768e15">
+        <dex dex="C:\Users\Lionel\Desktop\Android_Project\OpenGL3d_Presentation\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d15f456798a97e97668e797ede18a0f30263330a\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -120,12 +219,39 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Lionel\Desktop\Android_Project\OpenGL3d_Presentation\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Lionel\Desktop\Android_Project\OpenGL3d_Presentation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_155f51739f07f7f5e1bd55d141ff9f6bc7eb8fd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Lionel\Desktop\Android_Project\Tower-Smasher\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="045be695d968dd707691cc55d23746dbf8cf569a">
         <dex dex="C:\Users\Lionel\Desktop\Android_Project\Tower-Smasher\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_aa21ae4858a32f77d359caa3dd7d0de659532a37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lionel\Desktop\Android_Project\OpenGL3d_Presentation\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Lionel\Desktop\Android_Project\OpenGL3d_Presentation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_221d76757e707ccc29416241f8dd1261b78f7e85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lionel\Desktop\Android_Project\OpenGL3d_Presentation\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Lionel\Desktop\Android_Project\OpenGL3d_Presentation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_e5da199e6528e264a0a605b85ecc0415b335fc6a\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -144,6 +270,24 @@
         revision="25.0.0"
         sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
         <dex dex="C:\Users\Lionel\Desktop\Android_Project\Tower-Smasher\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_3ef90e8474e259fe5c1075b36346e565c38a306b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lionel\Desktop\Android_Project\OpenGL3d_Presentation\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Lionel\Desktop\Android_Project\OpenGL3d_Presentation\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_ba53654e64128fc18c89a45883d882d2794669f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lionel\Desktop\Android_Project\OpenGL3d_Presentation\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Lionel\Desktop\Android_Project\OpenGL3d_Presentation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_078572003c3b06024f20697f047c01747807e2a2\classes.dex" />
     </item>
     <item
         is-multidex="true"
